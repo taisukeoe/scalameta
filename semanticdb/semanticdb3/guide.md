@@ -420,7 +420,7 @@ library, one can model SemanticDB entities as Scala case classes and
 serialize/deserialize them into bytes and streams.
 
 ```
-libraryDependencies += "org.scalameta" %% "semanticdb" % "4.1.0"
+libraryDependencies += "org.scalameta" %% "semanticdb" % "4.1.6"
 ```
 
 `semanticdb` is available for all supported Scala platforms - JVM, Scala.js
